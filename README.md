@@ -1,4 +1,5 @@
 # 🎵 Spotify Clone - Pure JavaScript Music Player
+![App Screenshot](./assets/screenshot.png)
 A high-performance, responsive music streaming interface built with **JavaScript**, CSS3, and HTML5. This project replicates the core Spotify experience, including dynamic album loading, seekbar synchronization, and playlist management.
 ## 🚀 Key Features
  * **Dynamic Album Architecture:** Automatically fetches and parses local server directories to generate album cards with metadata (via info.json).
