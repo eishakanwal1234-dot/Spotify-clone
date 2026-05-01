@@ -1,0 +1,39 @@
+.border-red{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.align-centre{
+    align-items: center;
+}
+.justify-items{
+    justify-content: center;
+}
+.bgBlack{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-grey{
+    background-color: #121212;
+    color: white;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m1{
+    margin: 12px;
+}
+.p1{
+    padding: 24px;
+}
+.p2{
+    padding: 10px;
+}
+.white{
+    color: white;
+}
+                    /* <img src="https://i.scdn.co/image/ab67616d00001e0261589325f2ee1797c6527512" alt=""> */
